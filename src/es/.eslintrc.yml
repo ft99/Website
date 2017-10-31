@@ -5,14 +5,8 @@ extends:
 globals:
   _:                              true
   $:                              true
-  App:                            true
-  CodeMirror:                     true
-  Matter:                         true
-  MatterAttractors:               true
-  moment:                         true
-  Navigo:                         true
   UIkit:                          true
-  sigma:                          true
+  Particles:                      true
 plugins:
   - lodash
   - flowtype

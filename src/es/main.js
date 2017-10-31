@@ -13,4 +13,10 @@ $('document').ready(() => {
       }
     });
   });
+
+  Particles.init({
+    selector: '#network-bg',
+    color: '#ffffff',
+    connectParticles: true,
+  });
 });

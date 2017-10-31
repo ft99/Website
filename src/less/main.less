@@ -1,10 +1,10 @@
 @import 'colors.less';
 
-@carousel-gradient-top: #F3F4F6;
-@carousel-gradient-bottom: #F9F9F9;
+@carousel-gradient-top: @color2-300;
+@carousel-gradient-bottom: @color7-400;
 
 .ss-homepage-carousel {
-  min-height: 660px;
+  min-height: 460px;
 
   background: @carousel-gradient-top;
   background: -moz-linear-gradient(
@@ -22,10 +22,55 @@
     @carousel-gradient-top 0%,
     @carousel-gradient-bottom 100%
   );
+}
 
-  filter: progid:DXImageTransform.Microsoft.gradient(
-      startColorstr='@carousel-gradient-top',
-      endColorstr='@carousel-gradient-bottom',
-      GradientType=1
-    );
+.light-text * {
+  color: #fff;
+}
+
+#consultant-edu .uk-grid > div:nth-child(1) .uk-tile {
+  background: @color3-200;
+  background: -moz-linear-gradient(-45deg, @color3-200 0%, @color3-400 100%);
+  background: -webkit-linear-gradient(-45deg, @color3-200 0%, @color3-400 100%);
+  background: linear-gradient(135deg, @color3-200 0%, @color3-400 100%);
+}
+
+#consultant-edu .uk-grid > div:nth-child(2) .uk-tile {
+  background: @color6-200;
+  background: -moz-linear-gradient(-45deg, @color6-200 0%, @color6-400 100%);
+  background: -webkit-linear-gradient(-45deg, @color6-200 0%, @color6-400 100%);
+  background: linear-gradient(135deg, @color6-200 0%, @color6-400 100%);
+}
+
+#consultant-edu .uk-grid > div:nth-child(3) .uk-tile {
+  background: @color8-200;
+  background: -moz-linear-gradient(-45deg, @color8-200 0%, @color8-400 100%);
+  background: -webkit-linear-gradient(-45deg, @color8-200 0%, @color8-400 100%);
+  background: linear-gradient(135deg, @color8-200 0%, @color8-400 100%);
+}
+
+#consultant-edu .uk-grid > div:nth-child(4) .uk-tile {
+  background: @color9-200;
+  background: -moz-linear-gradient(-45deg, @color9-200 0%, @color9-400 100%);
+  background: -webkit-linear-gradient(-45deg, @color9-200 0%, @color9-400 100%);
+  background: linear-gradient(135deg, @color9-200 0%, @color9-400 100%);
+}
+
+#consultant-edu .uk-grid .uk-tile {
+  border-radius: 2px;
+}
+
+#consultant-edu .uk-grid .uk-tile * {
+  color: #fff;
+}
+
+#consultant-edu .uk-grid .uk-tile p {
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.25);
+}
+
+#network {
+  background: @color2-500;
+  background: -moz-linear-gradient(-45deg, @color2-500 0%, @color7-700 100%);
+  background: -webkit-linear-gradient(-45deg, @color2-500 0%, @color7-700 100%);
+  background: linear-gradient(135deg, @color2-500 0%, @color7-700 100%);
 }

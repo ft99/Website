@@ -36,13 +36,13 @@
 
   <div class="ss-main">
 
-    <div class="uk-flex uk-flex-middle ss-homepage-carousel uk-padding uk-padding-xlarge">
+    <div class="uk-flex uk-flex-middle uk-flex-center ss-homepage-carousel uk-padding uk-padding-xlarge">
       <div class="uk-position-top-left uk-padding uk-padding-xlarge">
         <a class="uk-logo" href="">
           <img src="assets/img/logo.png" alt="">
         </a>
       </div>
-      <div>
+      <div class="light-text uk-text-center">
         <h1 class="uk-heading-primary">Diversity in Thought</h1>
         <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h2>
       </div>
@@ -74,18 +74,39 @@
         <div class="uk-child-width-expand" uk-grid>
           <div class="uk-text-center uk-width-1-2@m">
             <img class="uk-border-circle" src="assets/img/deep.png" width="200" height="200" alt="Border circle">
+            <div uk-drop="pos: bottom-center">
+              <div class="uk-card uk-card-body uk-card-default">
+                <h3>Deep Biswas</h3>
+                <cite>Chief Executive Officer</cite>
+                <p>
+                  Cornell University ‘20 Biological Sciences | Dyson Business
+                </p>
+                <p>
+                  Minor for Life Sciences
+                </p>
+              </div>
+            </div>
             <h3>Deep Biswas</h3>
-            <p>Chief Executive Officer</p>
+            <cite>Chief Executive Officer</cite>
           </div>
           <div class="uk-text-center uk-width-1-2@m">
             <img class="uk-border-circle" src="assets/img/aditya.png" width="200" height="200" alt="Border circle">
+            <div uk-drop="pos: bottom-center">
+              <div class="uk-card uk-card-body uk-card-default">
+                <h3>Aditya Rajan</h3>
+                <cite>Chief Operating Officer</cite>
+                <p>
+                  Cornell University ‘20 Information Sciences | Applied Economics Management
+                </p>
+              </div>
+            </div>
             <h3>Aditya Rajan</h3>
-            <p>Chief Operating Officer</p>
+            <cite>Chief Operating Officer</cite>
           </div>
           <div class="uk-text-center uk-width-1-2@m">
             <img class="uk-border-circle" src="assets/img/john.jpg" width="200" height="200" alt="Border circle">
             <h3>John Doe</h3>
-            <p>Chief Financial Officer</p>
+            <cite>Chief Financial Officer</cite>
           </div>
         </div>
       </div>
@@ -99,19 +120,22 @@
         </div>
         <div class="uk-child-width-expand" uk-grid>
           <div class="uk-text-center">
-            <h2>Data Analytics</h2>
+            <div uk-icon="icon: database; ratio: 5"></div>
+            <h3>Data Analytics</h3>
             <p>
               Provide clients with the best data-driven predictions which can aid our clients for a suite of insights from predictive analytics models to future profit/loss forecasting and other predictive models
             </p>
           </div>
           <div class="uk-text-center">
-            <h2>Developmental</h2>
+            <div uk-icon="icon: forward; ratio: 5"></div>
+            <h3>Developmental</h3>
             <p>
               Our firm offers strategy to help clients develop externally in new markets whether it is with their product, service or infrastructure, and provide internal re-design and restructuring to maximize workflow efficiency </p>
             </p>
           </div>
           <div class="uk-text-center">
-            <h2>Business Unit</h2>
+            <div uk-icon="icon: credit-card; ratio: 5"></div>
+            <h3>Business Unit</h3>
             <p>
               Our consultants offer cutting-edge marketing strategies, customer, cost and competitor strategy, operational optimization, as well as overall performance improvement
           </div>
@@ -120,111 +144,124 @@
     </div>
 
 
-    <div class="uk-section">
+    <div class="uk-section" id="consultant-edu">
       <div class="uk-text-center">
         <h2>Consultant Education Program</h2>
       </div>
       <div class="uk-container">
-        <div class="uk-child-width-expand" uk-grid>
-          <div class="uk-flex uk-flex-middle uk-width-1-2@m">
-            <div class="uk-flex-none">
-              <img alt="" src="assets/img/Dropbox-icon.png" />
-            </div>
-            <div>
-              <h3>Hypothesis-Driven Analysis</h3>
-              <p>
-                Teaches the methodology of conducting research to test and prove or disprove a hypothesis as well as what questions to ask when analyzing a business problem
-              </p>
-            </div>
-          </div>
-          <div class="uk-flex uk-flex-middle uk-width-1-2@m">
-            <div class="uk-flex-none">
-              <img alt="" src="assets/img/Dropbox-icon.png" />
-            </div>
-            <div>
-              <h3>Client Interfacing</h3>
-              <p>
-                Provide members with real client-interfacing training to prepare them for client presentations and cold calls </p>
+        <div class="uk-child-width-1-2@s uk-grid-small uk-grid-match" uk-grid>
+          <div>
+            <div class="uk-flex uk-flex-middle uk-tile uk-tile-default uk-padding-small">
+              <div class="uk-flex-none uk-margin-right">
+                <div uk-icon="icon: search; ratio: 5"></div>
+              </div>
+              <div>
+                <h3>Hypothesis-Driven Analysis</h3>
+                <p>
+                  Teaches the methodology of conducting research to test and prove or disprove a hypothesis as well as what questions to ask when analyzing a business problem
+                </p>
+              </div>
             </div>
           </div>
-          <div class="uk-flex uk-flex-middle uk-width-1-2@m">
-            <div class="uk-flex-none">
-              <img alt="" src="assets/img/Dropbox-icon.png" />
-            </div>
-            <div>
-              <h3>Presenting Skills and Professionalism</h3>
-              <p>
-                An interactive session which develops public speaking and soft skills for overall presentation development
-              </p>
+          <div>
+            <div class="uk-flex uk-flex-middle uk-tile uk-tile-default uk-padding-small">
+              <div class="uk-flex-none uk-margin-right">
+                <div uk-icon="icon: users; ratio: 5"></div>
+              </div>
+              <div>
+                <h3>Client Interfacing</h3>
+                <p>
+                  Provide members with real client-interfacing training to prepare them for client presentations and cold calls </p>
+              </div>
             </div>
           </div>
-          <div class="uk-flex uk-flex-middle uk-width-1-2@m">
-            <div class="uk-flex-none">
-              <img alt="" src="assets/img/Dropbox-icon.png" />
+          <div>
+            <div class="uk-flex uk-flex-middle uk-tile uk-tile-default uk-padding-small">
+              <div class="uk-flex-none uk-margin-right">
+                <div uk-icon="icon: play-circle; ratio: 5"></div>
+              </div>
+              <div>
+                <h3>Presenting Skills and Professionalism</h3>
+                <p>
+                  An interactive session which develops public speaking and soft skills for overall presentation development
+                </p>
+              </div>
             </div>
-            <div>
-              <h3>Effective Slide Design</h3>
-              <p>
-                Focuses on the significant components of a PowerPoint presentation: structure, content, and emphasis
-              </p>
+          </div>
+          <div>
+            <div class="uk-flex uk-flex-middle uk-tile uk-tile-default uk-padding-small">
+              <div class="uk-flex-none uk-margin-right">
+                <div uk-icon="icon: thumbnails; ratio: 5"></div>
+              </div>
+              <div>
+                <h3>Effective Slide Design</h3>
+                <p>
+                  Focuses on the significant components of a PowerPoint presentation: structure, content, and emphasis
+                </p>
+              </div>
             </div>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="uk-section">
-      <div class="uk-container">
-        <div class="uk-text-center">
-          <h2>Network Development</h2>
-        </div>
-        <div class="uk-child-width-expand" uk-grid>
-          <div class="uk-flex uk-flex-middle uk-width-1-3@m">
-            <div>
-              <img alt="" src="assets/img/Dropbox-icon.png" />
-            </div>
-            <div>
-              <h3>Internship Opportunities</h3>
-            </div>
+    <div class="uk-section uk-cover-container" id="network">
+      <canvas id="network-bg" style="height: 400px;">
+
+      </canvas>
+      <div uk-cover>
+        <div class="uk-container">
+          <div class="uk-text-center">
+            <h2>Network Development</h2>
           </div>
-          <div class="uk-flex uk-flex-middle uk-width-1-3@m">
-            <div>
-              <img alt="" src="assets/img/Dropbox-icon.png" />
+          <div class="uk-child-width-expand" uk-grid>
+            <div class="uk-flex uk-flex-middle uk-width-1-3@m">
+              <div>
+                <img alt="" src="assets/img/Dropbox-icon.png" />
+              </div>
+              <div>
+                <h3>Internship Opportunities</h3>
+              </div>
             </div>
-            <div>
-              <h3>Case Competitions</h3>
+            <div class="uk-flex uk-flex-middle uk-width-1-3@m">
+              <div>
+                <img alt="" src="assets/img/Dropbox-icon.png" />
+              </div>
+              <div>
+                <h3>Case Competitions</h3>
+              </div>
             </div>
-          </div>
-          <div class="uk-flex uk-flex-middle uk-width-1-3@m">
-            <div>
-              <img alt="" src="assets/img/Dropbox-icon.png" />
+            <div class="uk-flex uk-flex-middle uk-width-1-3@m">
+              <div>
+                <img alt="" src="assets/img/Dropbox-icon.png" />
+              </div>
+              <div>
+                <h3>Educational Seminars</h3>
+              </div>
             </div>
-            <div>
-              <h3>Educational Seminars</h3>
+            <div class="uk-flex uk-flex-middle uk-width-1-3@m">
+              <div>
+                <img alt="" src="assets/img/Dropbox-icon.png" />
+              </div>
+              <div>
+                <h3>Co-op Projects</h3>
+              </div>
             </div>
-          </div>
-          <div class="uk-flex uk-flex-middle uk-width-1-3@m">
-            <div>
-              <img alt="" src="assets/img/Dropbox-icon.png" />
+            <div class="uk-flex uk-flex-middle uk-width-1-3@m">
+              <div>
+                <img alt="" src="assets/img/Dropbox-icon.png" />
+              </div>
+              <div>
+                <h3>Private Networking</h3>
+              </div>
             </div>
-            <div>
-              <h3>Co-op Projects</h3>
-            </div>
-          </div>
-          <div class="uk-flex uk-flex-middle uk-width-1-3@m">
-            <div>
-              <img alt="" src="assets/img/Dropbox-icon.png" />
-            </div>
-            <div>
-              <h3>Private Networking</h3>
-            </div>
-          </div>
-          <div class="uk-flex uk-flex-middle uk-width-1-3@m">
-            <div>
-              <img alt="" src="assets/img/Dropbox-icon.png" />
-            </div>
-            <div>
-              <h3>Job placement</h3>
+            <div class="uk-flex uk-flex-middle uk-width-1-3@m">
+              <div>
+                <img alt="" src="assets/img/Dropbox-icon.png" />
+              </div>
+              <div>
+                <h3>Job placement</h3>
+              </div>
             </div>
           </div>
         </div>
@@ -239,52 +276,52 @@
         <div class="uk-child-width-expand" uk-grid>
           <div class="uk-flex uk-flex-middle uk-width-1-5@m">
             <div>
-              <img alt="" src="assets/img/Dropbox-icon.png" />
+              <img alt="" src="assets/img/accenture.png" />
             </div>
           </div>
           <div class="uk-flex uk-flex-middle uk-width-1-5@m">
             <div>
-              <img alt="" src="assets/img/Dropbox-icon.png" />
+              <img alt="" src="assets/img/bain_company.png" />
             </div>
           </div>
           <div class="uk-flex uk-flex-middle uk-width-1-5@m">
             <div>
-              <img alt="" src="assets/img/Dropbox-icon.png" />
+              <img alt="" src="assets/img/bcg.png" />
             </div>
           </div>
           <div class="uk-flex uk-flex-middle uk-width-1-5@m">
             <div>
-              <img alt="" src="assets/img/Dropbox-icon.png" />
+              <img alt="" src="assets/img/deloitte.png" />
             </div>
           </div>
           <div class="uk-flex uk-flex-middle uk-width-1-5@m">
             <div>
-              <img alt="" src="assets/img/Dropbox-icon.png" />
+              <img alt="" src="assets/img/ey.png" />
             </div>
           </div>
           <div class="uk-flex uk-flex-middle uk-width-1-5@m">
             <div>
-              <img alt="" src="assets/img/Dropbox-icon.png" />
+              <img alt="" src="assets/img/ibm.png" />
             </div>
           </div>
           <div class="uk-flex uk-flex-middle uk-width-1-5@m">
             <div>
-              <img alt="" src="assets/img/Dropbox-icon.png" />
+              <img alt="" src="assets/img/kpmg.png" />
             </div>
           </div>
           <div class="uk-flex uk-flex-middle uk-width-1-5@m">
             <div>
-              <img alt="" src="assets/img/Dropbox-icon.png" />
+              <img alt="" src="assets/img/mckinsey_company.png" />
             </div>
           </div>
           <div class="uk-flex uk-flex-middle uk-width-1-5@m">
             <div>
-              <img alt="" src="assets/img/Dropbox-icon.png" />
+              <img alt="" src="assets/img/oliver_wyman.png" />
             </div>
           </div>
           <div class="uk-flex uk-flex-middle uk-width-1-5@m">
             <div>
-              <img alt="" src="assets/img/Dropbox-icon.png" />
+              <img alt="" src="assets/img/strategyand.png" />
             </div>
           </div>
         </div>
@@ -304,7 +341,7 @@
               <li><a href="javascript:void(0)"></a></li>
             </ul>
           </div>
-          <div class="uk-flex uk-flex-nowrap" style="overflow-x: hidden;" uk-grid id="perks-card-wrapper">
+          <div class="uk-flex uk-flex-nowrap uk-padding" style="overflow-x: hidden;" uk-grid id="perks-card-wrapper">
             <div class="uk-flex-none">
               <div class="uk-card uk-card-default uk-card-body" data-index="0">
                 <h3 class="uk-card-title">Learning Driven</h3>
@@ -336,6 +373,18 @@
               </div>
             </div>
           </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="uk-section">
+      <div class="uk-container">
+        <div class="uk-text-center">
+          <h2>Ready to think different?</h2>
+          <p>
+            <button class="uk-button uk-button-primary">Contact Us</button>
+            <button class="uk-button uk-button-secondary">Careers</button>
+          </p>
         </div>
       </div>
     </div>

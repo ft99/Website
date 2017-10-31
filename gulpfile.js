@@ -138,8 +138,10 @@ gulp.task('lib', ['clean'], () => {
   const libs = {
     js: [
       'jquery/dist/jquery.js',
+      'lodash/lodash.js',
       'uikit/dist/js/uikit.js',
-      'uikit/dist/js/uikit-icons.js'
+      'uikit/dist/js/uikit-icons.js',
+      'particlesjs/dist/particles.js'
     ],
     css: ['uikit/dist/css/uikit.css', 'font-awesome/css/font-awesome.css'],
     fonts: ['../src/fonts/*.ttf', 'font-awesome/fonts/**']
