@@ -16,7 +16,25 @@ $('document').ready(() => {
 
   Particles.init({
     selector: '#network-bg',
-    color: '#ffffff',
+    color: '#2880c3',
     connectParticles: true,
+    showCursor: false,
   });
+
+  const options = {
+    strings: [
+      'Internship Opportunities',
+      'Case Competitions',
+      'Educational Seminars',
+      'Co-op Projects',
+      'Private Networking',
+      'Job placement',
+    ],
+    typeSpeed: 40,
+    loop: true,
+    startDelay: 0,
+    backDelay: 2500,
+  };
+
+  const typed = new Typed('#typing-network', options);
 });

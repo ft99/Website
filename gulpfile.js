@@ -141,7 +141,8 @@ gulp.task('lib', ['clean'], () => {
       'lodash/lodash.js',
       'uikit/dist/js/uikit.js',
       'uikit/dist/js/uikit-icons.js',
-      'particlesjs/dist/particles.js'
+      'particlesjs/dist/particles.js',
+      'typed.js/lib/typed.js'
     ],
     css: ['uikit/dist/css/uikit.css', 'font-awesome/css/font-awesome.css'],
     fonts: ['../src/fonts/*.ttf', 'font-awesome/fonts/**']
