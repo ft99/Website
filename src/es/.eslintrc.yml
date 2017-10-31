@@ -1,0 +1,26 @@
+parser:                           babel-eslint
+extends:
+  - airbnb-base
+  - plugin:lodash/recommended
+globals:
+  _:                              true
+  $:                              true
+  App:                            true
+  CodeMirror:                     true
+  Matter:                         true
+  MatterAttractors:               true
+  moment:                         true
+  Navigo:                         true
+  UIkit:                          true
+  sigma:                          true
+plugins:
+  - lodash
+  - flowtype
+  - html
+rules:
+  lodash/prefer-lodash-method:    0
+  lodash/prefer-lodash-typecheck: 0
+  no-undef:                       2
+  function-paren-newline:         0
+env:
+  browser:                        true

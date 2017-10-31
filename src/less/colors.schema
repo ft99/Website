@@ -1,0 +1,1641 @@
+[
+  {
+    "colors": [
+      {
+        "name": "50",
+        "hex": "#e8f3fa",
+        "darkContrast": true
+      },
+      {
+        "name": "100",
+        "hex": "#c5e1f2",
+        "darkContrast": true
+      },
+      {
+        "name": "200",
+        "hex": "#9fceea",
+        "darkContrast": true
+      },
+      {
+        "name": "300",
+        "hex": "#78bae1",
+        "darkContrast": true
+      },
+      {
+        "name": "400",
+        "hex": "#5babda",
+        "darkContrast": true
+      },
+      {
+        "name": "500",
+        "hex": "#3e9cd4",
+        "darkContrast": true
+      },
+      {
+        "name": "600",
+        "hex": "#3894cf",
+        "darkContrast": false
+      },
+      {
+        "name": "700",
+        "hex": "#308ac9",
+        "darkContrast": false
+      },
+      {
+        "name": "800",
+        "hex": "#2880c3",
+        "darkContrast": false
+      },
+      {
+        "name": "900",
+        "hex": "#1b6eb9",
+        "darkContrast": false
+      },
+      {
+        "name": "A100",
+        "hex": "#eff7ff",
+        "darkContrast": true
+      },
+      {
+        "name": "A200",
+        "hex": "#bcddff",
+        "darkContrast": true
+      },
+      {
+        "name": "A400",
+        "hex": "#89c4ff",
+        "darkContrast": true
+      },
+      {
+        "name": "A700",
+        "hex": "#6fb7ff",
+        "darkContrast": true
+      }
+    ],
+    "orig": [
+      {
+        "name": "50",
+        "hex": "#e8f3fa",
+        "darkContrast": true
+      },
+      {
+        "name": "100",
+        "hex": "#c5e1f2",
+        "darkContrast": true
+      },
+      {
+        "name": "200",
+        "hex": "#9fceea",
+        "darkContrast": true
+      },
+      {
+        "name": "300",
+        "hex": "#78bae1",
+        "darkContrast": true
+      },
+      {
+        "name": "400",
+        "hex": "#5babda",
+        "darkContrast": true
+      },
+      {
+        "name": "500",
+        "hex": "#3e9cd4",
+        "darkContrast": true
+      },
+      {
+        "name": "600",
+        "hex": "#3894cf",
+        "darkContrast": false
+      },
+      {
+        "name": "700",
+        "hex": "#308ac9",
+        "darkContrast": false
+      },
+      {
+        "name": "800",
+        "hex": "#2880c3",
+        "darkContrast": false
+      },
+      {
+        "name": "900",
+        "hex": "#1b6eb9",
+        "darkContrast": false
+      },
+      {
+        "name": "A100",
+        "hex": "#eff7ff",
+        "darkContrast": true
+      },
+      {
+        "name": "A200",
+        "hex": "#bcddff",
+        "darkContrast": true
+      },
+      {
+        "name": "A400",
+        "hex": "#89c4ff",
+        "darkContrast": true
+      },
+      {
+        "name": "A700",
+        "hex": "#6fb7ff",
+        "darkContrast": true
+      }
+    ],
+    "base": "#3e9cd4",
+    "json": "",
+    "name": "mcgpalette2"
+  },
+  {
+    "colors": [
+      {
+        "name": "50",
+        "hex": "#e2e7ea",
+        "darkContrast": true
+      },
+      {
+        "name": "100",
+        "hex": "#b7c3cc",
+        "darkContrast": true
+      },
+      {
+        "name": "200",
+        "hex": "#889baa",
+        "darkContrast": true
+      },
+      {
+        "name": "300",
+        "hex": "#587287",
+        "darkContrast": false
+      },
+      {
+        "name": "400",
+        "hex": "#34546e",
+        "darkContrast": false
+      },
+      {
+        "name": "500",
+        "hex": "#103654",
+        "darkContrast": false
+      },
+      {
+        "name": "600",
+        "hex": "#0e304d",
+        "darkContrast": false
+      },
+      {
+        "name": "700",
+        "hex": "#0c2943",
+        "darkContrast": false
+      },
+      {
+        "name": "800",
+        "hex": "#09223a",
+        "darkContrast": false
+      },
+      {
+        "name": "900",
+        "hex": "#051629",
+        "darkContrast": false
+      },
+      {
+        "name": "A100",
+        "hex": "#649fff",
+        "darkContrast": true
+      },
+      {
+        "name": "A200",
+        "hex": "#3180ff",
+        "darkContrast": false
+      },
+      {
+        "name": "A400",
+        "hex": "#0060fd",
+        "darkContrast": false
+      },
+      {
+        "name": "A700",
+        "hex": "#0057e4",
+        "darkContrast": false
+      }
+    ],
+    "orig": [
+      {
+        "name": "50",
+        "hex": "#e2e7ea",
+        "darkContrast": true
+      },
+      {
+        "name": "100",
+        "hex": "#b7c3cc",
+        "darkContrast": true
+      },
+      {
+        "name": "200",
+        "hex": "#889baa",
+        "darkContrast": true
+      },
+      {
+        "name": "300",
+        "hex": "#587287",
+        "darkContrast": false
+      },
+      {
+        "name": "400",
+        "hex": "#34546e",
+        "darkContrast": false
+      },
+      {
+        "name": "500",
+        "hex": "#103654",
+        "darkContrast": false
+      },
+      {
+        "name": "600",
+        "hex": "#0e304d",
+        "darkContrast": false
+      },
+      {
+        "name": "700",
+        "hex": "#0c2943",
+        "darkContrast": false
+      },
+      {
+        "name": "800",
+        "hex": "#09223a",
+        "darkContrast": false
+      },
+      {
+        "name": "900",
+        "hex": "#051629",
+        "darkContrast": false
+      },
+      {
+        "name": "A100",
+        "hex": "#649fff",
+        "darkContrast": true
+      },
+      {
+        "name": "A200",
+        "hex": "#3180ff",
+        "darkContrast": false
+      },
+      {
+        "name": "A400",
+        "hex": "#0060fd",
+        "darkContrast": false
+      },
+      {
+        "name": "A700",
+        "hex": "#0057e4",
+        "darkContrast": false
+      }
+    ],
+    "base": "#103654",
+    "json": "",
+    "name": "mcgpalette3"
+  },
+  {
+    "colors": [
+      {
+        "name": "50",
+        "hex": "#eef2f4",
+        "darkContrast": true
+      },
+      {
+        "name": "100",
+        "hex": "#d4dee4",
+        "darkContrast": true
+      },
+      {
+        "name": "200",
+        "hex": "#b7c8d2",
+        "darkContrast": true
+      },
+      {
+        "name": "300",
+        "hex": "#9ab1bf",
+        "darkContrast": true
+      },
+      {
+        "name": "400",
+        "hex": "#84a1b2",
+        "darkContrast": true
+      },
+      {
+        "name": "500",
+        "hex": "#6e90a4",
+        "darkContrast": true
+      },
+      {
+        "name": "600",
+        "hex": "#66889c",
+        "darkContrast": true
+      },
+      {
+        "name": "700",
+        "hex": "#5b7d92",
+        "darkContrast": false
+      },
+      {
+        "name": "800",
+        "hex": "#517389",
+        "darkContrast": false
+      },
+      {
+        "name": "900",
+        "hex": "#3f6178",
+        "darkContrast": false
+      },
+      {
+        "name": "A100",
+        "hex": "#ceebff",
+        "darkContrast": true
+      },
+      {
+        "name": "A200",
+        "hex": "#9bd5ff",
+        "darkContrast": true
+      },
+      {
+        "name": "A400",
+        "hex": "#68c0ff",
+        "darkContrast": true
+      },
+      {
+        "name": "A700",
+        "hex": "#4eb6ff",
+        "darkContrast": true
+      }
+    ],
+    "orig": [
+      {
+        "name": "50",
+        "hex": "#eef2f4",
+        "darkContrast": true
+      },
+      {
+        "name": "100",
+        "hex": "#d4dee4",
+        "darkContrast": true
+      },
+      {
+        "name": "200",
+        "hex": "#b7c8d2",
+        "darkContrast": true
+      },
+      {
+        "name": "300",
+        "hex": "#9ab1bf",
+        "darkContrast": true
+      },
+      {
+        "name": "400",
+        "hex": "#84a1b2",
+        "darkContrast": true
+      },
+      {
+        "name": "500",
+        "hex": "#6e90a4",
+        "darkContrast": true
+      },
+      {
+        "name": "600",
+        "hex": "#66889c",
+        "darkContrast": true
+      },
+      {
+        "name": "700",
+        "hex": "#5b7d92",
+        "darkContrast": false
+      },
+      {
+        "name": "800",
+        "hex": "#517389",
+        "darkContrast": false
+      },
+      {
+        "name": "900",
+        "hex": "#3f6178",
+        "darkContrast": false
+      },
+      {
+        "name": "A100",
+        "hex": "#ceebff",
+        "darkContrast": true
+      },
+      {
+        "name": "A200",
+        "hex": "#9bd5ff",
+        "darkContrast": true
+      },
+      {
+        "name": "A400",
+        "hex": "#68c0ff",
+        "darkContrast": true
+      },
+      {
+        "name": "A700",
+        "hex": "#4eb6ff",
+        "darkContrast": true
+      }
+    ],
+    "base": "#6e90a4",
+    "json": "",
+    "name": "mcgpalette6"
+  },
+  {
+    "colors": [
+      {
+        "name": "50",
+        "hex": "#fee8e7",
+        "darkContrast": true
+      },
+      {
+        "name": "100",
+        "hex": "#fcc7c3",
+        "darkContrast": true
+      },
+      {
+        "name": "200",
+        "hex": "#faa19b",
+        "darkContrast": true
+      },
+      {
+        "name": "300",
+        "hex": "#f77b72",
+        "darkContrast": true
+      },
+      {
+        "name": "400",
+        "hex": "#f65f54",
+        "darkContrast": true
+      },
+      {
+        "name": "500",
+        "hex": "#f44336",
+        "darkContrast": false
+      },
+      {
+        "name": "600",
+        "hex": "#f33d30",
+        "darkContrast": false
+      },
+      {
+        "name": "700",
+        "hex": "#f13429",
+        "darkContrast": false
+      },
+      {
+        "name": "800",
+        "hex": "#ef2c22",
+        "darkContrast": false
+      },
+      {
+        "name": "900",
+        "hex": "#ec1e16",
+        "darkContrast": false
+      },
+      {
+        "name": "A100",
+        "hex": "#ffffff",
+        "darkContrast": true
+      },
+      {
+        "name": "A200",
+        "hex": "#ffe9e9",
+        "darkContrast": true
+      },
+      {
+        "name": "A400",
+        "hex": "#ffb8b6",
+        "darkContrast": true
+      },
+      {
+        "name": "A700",
+        "hex": "#ff9f9c",
+        "darkContrast": true
+      }
+    ],
+    "orig": [
+      {
+        "name": "50",
+        "hex": "#fee8e7",
+        "darkContrast": true
+      },
+      {
+        "name": "100",
+        "hex": "#fcc7c3",
+        "darkContrast": true
+      },
+      {
+        "name": "200",
+        "hex": "#faa19b",
+        "darkContrast": true
+      },
+      {
+        "name": "300",
+        "hex": "#f77b72",
+        "darkContrast": true
+      },
+      {
+        "name": "400",
+        "hex": "#f65f54",
+        "darkContrast": true
+      },
+      {
+        "name": "500",
+        "hex": "#f44336",
+        "darkContrast": false
+      },
+      {
+        "name": "600",
+        "hex": "#f33d30",
+        "darkContrast": false
+      },
+      {
+        "name": "700",
+        "hex": "#f13429",
+        "darkContrast": false
+      },
+      {
+        "name": "800",
+        "hex": "#ef2c22",
+        "darkContrast": false
+      },
+      {
+        "name": "900",
+        "hex": "#ec1e16",
+        "darkContrast": false
+      },
+      {
+        "name": "A100",
+        "hex": "#ffffff",
+        "darkContrast": true
+      },
+      {
+        "name": "A200",
+        "hex": "#ffe9e9",
+        "darkContrast": true
+      },
+      {
+        "name": "A400",
+        "hex": "#ffb8b6",
+        "darkContrast": true
+      },
+      {
+        "name": "A700",
+        "hex": "#ff9f9c",
+        "darkContrast": true
+      }
+    ],
+    "base": "#f44336",
+    "json": "",
+    "name": "mcgpalette3"
+  },
+  {
+    "colors": [
+      {
+        "name": "50",
+        "hex": "#fce4ec",
+        "darkContrast": true
+      },
+      {
+        "name": "100",
+        "hex": "#f8bcd0",
+        "darkContrast": true
+      },
+      {
+        "name": "200",
+        "hex": "#f48fb1",
+        "darkContrast": true
+      },
+      {
+        "name": "300",
+        "hex": "#f06292",
+        "darkContrast": true
+      },
+      {
+        "name": "400",
+        "hex": "#ec407a",
+        "darkContrast": false
+      },
+      {
+        "name": "500",
+        "hex": "#e91e63",
+        "darkContrast": false
+      },
+      {
+        "name": "600",
+        "hex": "#e61a5b",
+        "darkContrast": false
+      },
+      {
+        "name": "700",
+        "hex": "#e31651",
+        "darkContrast": false
+      },
+      {
+        "name": "800",
+        "hex": "#df1247",
+        "darkContrast": false
+      },
+      {
+        "name": "900",
+        "hex": "#d90a35",
+        "darkContrast": false
+      },
+      {
+        "name": "A100",
+        "hex": "#ffffff",
+        "darkContrast": true
+      },
+      {
+        "name": "A200",
+        "hex": "#ffd0d8",
+        "darkContrast": true
+      },
+      {
+        "name": "A400",
+        "hex": "#ff9dae",
+        "darkContrast": true
+      },
+      {
+        "name": "A700",
+        "hex": "#ff8498",
+        "darkContrast": true
+      }
+    ],
+    "orig": [
+      {
+        "name": "50",
+        "hex": "#fce4ec",
+        "darkContrast": true
+      },
+      {
+        "name": "100",
+        "hex": "#f8bcd0",
+        "darkContrast": true
+      },
+      {
+        "name": "200",
+        "hex": "#f48fb1",
+        "darkContrast": true
+      },
+      {
+        "name": "300",
+        "hex": "#f06292",
+        "darkContrast": true
+      },
+      {
+        "name": "400",
+        "hex": "#ec407a",
+        "darkContrast": false
+      },
+      {
+        "name": "500",
+        "hex": "#e91e63",
+        "darkContrast": false
+      },
+      {
+        "name": "600",
+        "hex": "#e61a5b",
+        "darkContrast": false
+      },
+      {
+        "name": "700",
+        "hex": "#e31651",
+        "darkContrast": false
+      },
+      {
+        "name": "800",
+        "hex": "#df1247",
+        "darkContrast": false
+      },
+      {
+        "name": "900",
+        "hex": "#d90a35",
+        "darkContrast": false
+      },
+      {
+        "name": "A100",
+        "hex": "#ffffff",
+        "darkContrast": true
+      },
+      {
+        "name": "A200",
+        "hex": "#ffd0d8",
+        "darkContrast": true
+      },
+      {
+        "name": "A400",
+        "hex": "#ff9dae",
+        "darkContrast": true
+      },
+      {
+        "name": "A700",
+        "hex": "#ff8498",
+        "darkContrast": true
+      }
+    ],
+    "base": "#e91e63",
+    "json": "",
+    "name": "mcgpalette4"
+  },
+  {
+    "colors": [
+      {
+        "name": "50",
+        "hex": "#f3e5f6",
+        "darkContrast": true
+      },
+      {
+        "name": "100",
+        "hex": "#e1bee7",
+        "darkContrast": true
+      },
+      {
+        "name": "200",
+        "hex": "#ce93d8",
+        "darkContrast": true
+      },
+      {
+        "name": "300",
+        "hex": "#ba68c8",
+        "darkContrast": true
+      },
+      {
+        "name": "400",
+        "hex": "#ab47bc",
+        "darkContrast": false
+      },
+      {
+        "name": "500",
+        "hex": "#9c27b0",
+        "darkContrast": false
+      },
+      {
+        "name": "600",
+        "hex": "#9423a9",
+        "darkContrast": false
+      },
+      {
+        "name": "700",
+        "hex": "#8a1da0",
+        "darkContrast": false
+      },
+      {
+        "name": "800",
+        "hex": "#801797",
+        "darkContrast": false
+      },
+      {
+        "name": "900",
+        "hex": "#6e0e87",
+        "darkContrast": false
+      },
+      {
+        "name": "A100",
+        "hex": "#efb8ff",
+        "darkContrast": true
+      },
+      {
+        "name": "A200",
+        "hex": "#e485ff",
+        "darkContrast": true
+      },
+      {
+        "name": "A400",
+        "hex": "#d852ff",
+        "darkContrast": true
+      },
+      {
+        "name": "A700",
+        "hex": "#d238ff",
+        "darkContrast": false
+      }
+    ],
+    "orig": [
+      {
+        "name": "50",
+        "hex": "#f3e5f6",
+        "darkContrast": true
+      },
+      {
+        "name": "100",
+        "hex": "#e1bee7",
+        "darkContrast": true
+      },
+      {
+        "name": "200",
+        "hex": "#ce93d8",
+        "darkContrast": true
+      },
+      {
+        "name": "300",
+        "hex": "#ba68c8",
+        "darkContrast": true
+      },
+      {
+        "name": "400",
+        "hex": "#ab47bc",
+        "darkContrast": false
+      },
+      {
+        "name": "500",
+        "hex": "#9c27b0",
+        "darkContrast": false
+      },
+      {
+        "name": "600",
+        "hex": "#9423a9",
+        "darkContrast": false
+      },
+      {
+        "name": "700",
+        "hex": "#8a1da0",
+        "darkContrast": false
+      },
+      {
+        "name": "800",
+        "hex": "#801797",
+        "darkContrast": false
+      },
+      {
+        "name": "900",
+        "hex": "#6e0e87",
+        "darkContrast": false
+      },
+      {
+        "name": "A100",
+        "hex": "#efb8ff",
+        "darkContrast": true
+      },
+      {
+        "name": "A200",
+        "hex": "#e485ff",
+        "darkContrast": true
+      },
+      {
+        "name": "A400",
+        "hex": "#d852ff",
+        "darkContrast": true
+      },
+      {
+        "name": "A700",
+        "hex": "#d238ff",
+        "darkContrast": false
+      }
+    ],
+    "base": "#9c27b0",
+    "json": "",
+    "name": "mcgpalette5"
+  },
+  {
+    "colors": [
+      {
+        "name": "50",
+        "hex": "#ede7f6",
+        "darkContrast": true
+      },
+      {
+        "name": "100",
+        "hex": "#d1c4e9",
+        "darkContrast": true
+      },
+      {
+        "name": "200",
+        "hex": "#b39ddb",
+        "darkContrast": true
+      },
+      {
+        "name": "300",
+        "hex": "#9575cd",
+        "darkContrast": true
+      },
+      {
+        "name": "400",
+        "hex": "#7e58c2",
+        "darkContrast": false
+      },
+      {
+        "name": "500",
+        "hex": "#673ab7",
+        "darkContrast": false
+      },
+      {
+        "name": "600",
+        "hex": "#5f34b0",
+        "darkContrast": false
+      },
+      {
+        "name": "700",
+        "hex": "#542ca7",
+        "darkContrast": false
+      },
+      {
+        "name": "800",
+        "hex": "#4a259f",
+        "darkContrast": false
+      },
+      {
+        "name": "900",
+        "hex": "#391890",
+        "darkContrast": false
+      },
+      {
+        "name": "A100",
+        "hex": "#d4c7ff",
+        "darkContrast": true
+      },
+      {
+        "name": "A200",
+        "hex": "#ad94ff",
+        "darkContrast": true
+      },
+      {
+        "name": "A400",
+        "hex": "#8661ff",
+        "darkContrast": false
+      },
+      {
+        "name": "A700",
+        "hex": "#7347ff",
+        "darkContrast": false
+      }
+    ],
+    "orig": [
+      {
+        "name": "50",
+        "hex": "#ede7f6",
+        "darkContrast": true
+      },
+      {
+        "name": "100",
+        "hex": "#d1c4e9",
+        "darkContrast": true
+      },
+      {
+        "name": "200",
+        "hex": "#b39ddb",
+        "darkContrast": true
+      },
+      {
+        "name": "300",
+        "hex": "#9575cd",
+        "darkContrast": true
+      },
+      {
+        "name": "400",
+        "hex": "#7e58c2",
+        "darkContrast": false
+      },
+      {
+        "name": "500",
+        "hex": "#673ab7",
+        "darkContrast": false
+      },
+      {
+        "name": "600",
+        "hex": "#5f34b0",
+        "darkContrast": false
+      },
+      {
+        "name": "700",
+        "hex": "#542ca7",
+        "darkContrast": false
+      },
+      {
+        "name": "800",
+        "hex": "#4a259f",
+        "darkContrast": false
+      },
+      {
+        "name": "900",
+        "hex": "#391890",
+        "darkContrast": false
+      },
+      {
+        "name": "A100",
+        "hex": "#d4c7ff",
+        "darkContrast": true
+      },
+      {
+        "name": "A200",
+        "hex": "#ad94ff",
+        "darkContrast": true
+      },
+      {
+        "name": "A400",
+        "hex": "#8661ff",
+        "darkContrast": false
+      },
+      {
+        "name": "A700",
+        "hex": "#7347ff",
+        "darkContrast": false
+      }
+    ],
+    "base": "#673ab7",
+    "json": "",
+    "name": "mcgpalette6"
+  },
+  {
+    "colors": [
+      {
+        "name": "50",
+        "hex": "#e8eaf6",
+        "darkContrast": true
+      },
+      {
+        "name": "100",
+        "hex": "#c5cbe9",
+        "darkContrast": true
+      },
+      {
+        "name": "200",
+        "hex": "#9fa8da",
+        "darkContrast": true
+      },
+      {
+        "name": "300",
+        "hex": "#7985cb",
+        "darkContrast": true
+      },
+      {
+        "name": "400",
+        "hex": "#5c6bc0",
+        "darkContrast": false
+      },
+      {
+        "name": "500",
+        "hex": "#3f51b5",
+        "darkContrast": false
+      },
+      {
+        "name": "600",
+        "hex": "#394aae",
+        "darkContrast": false
+      },
+      {
+        "name": "700",
+        "hex": "#3140a5",
+        "darkContrast": false
+      },
+      {
+        "name": "800",
+        "hex": "#29379d",
+        "darkContrast": false
+      },
+      {
+        "name": "900",
+        "hex": "#1b278d",
+        "darkContrast": false
+      },
+      {
+        "name": "A100",
+        "hex": "#c6cbff",
+        "darkContrast": true
+      },
+      {
+        "name": "A200",
+        "hex": "#939dff",
+        "darkContrast": true
+      },
+      {
+        "name": "A400",
+        "hex": "#606eff",
+        "darkContrast": false
+      },
+      {
+        "name": "A700",
+        "hex": "#4757ff",
+        "darkContrast": false
+      }
+    ],
+    "orig": [
+      {
+        "name": "50",
+        "hex": "#e8eaf6",
+        "darkContrast": true
+      },
+      {
+        "name": "100",
+        "hex": "#c5cbe9",
+        "darkContrast": true
+      },
+      {
+        "name": "200",
+        "hex": "#9fa8da",
+        "darkContrast": true
+      },
+      {
+        "name": "300",
+        "hex": "#7985cb",
+        "darkContrast": true
+      },
+      {
+        "name": "400",
+        "hex": "#5c6bc0",
+        "darkContrast": false
+      },
+      {
+        "name": "500",
+        "hex": "#3f51b5",
+        "darkContrast": false
+      },
+      {
+        "name": "600",
+        "hex": "#394aae",
+        "darkContrast": false
+      },
+      {
+        "name": "700",
+        "hex": "#3140a5",
+        "darkContrast": false
+      },
+      {
+        "name": "800",
+        "hex": "#29379d",
+        "darkContrast": false
+      },
+      {
+        "name": "900",
+        "hex": "#1b278d",
+        "darkContrast": false
+      },
+      {
+        "name": "A100",
+        "hex": "#c6cbff",
+        "darkContrast": true
+      },
+      {
+        "name": "A200",
+        "hex": "#939dff",
+        "darkContrast": true
+      },
+      {
+        "name": "A400",
+        "hex": "#606eff",
+        "darkContrast": false
+      },
+      {
+        "name": "A700",
+        "hex": "#4757ff",
+        "darkContrast": false
+      }
+    ],
+    "base": "#3f51b5",
+    "json": "",
+    "name": "mcgpalette7"
+  },
+  {
+    "colors": [
+      {
+        "name": "50",
+        "hex": "#e0f7fa",
+        "darkContrast": true
+      },
+      {
+        "name": "100",
+        "hex": "#b3ebf2",
+        "darkContrast": true
+      },
+      {
+        "name": "200",
+        "hex": "#80deea",
+        "darkContrast": true
+      },
+      {
+        "name": "300",
+        "hex": "#4dd0e1",
+        "darkContrast": true
+      },
+      {
+        "name": "400",
+        "hex": "#26c6da",
+        "darkContrast": true
+      },
+      {
+        "name": "500",
+        "hex": "#00bcd4",
+        "darkContrast": true
+      },
+      {
+        "name": "600",
+        "hex": "#00b6cf",
+        "darkContrast": true
+      },
+      {
+        "name": "700",
+        "hex": "#00adc9",
+        "darkContrast": false
+      },
+      {
+        "name": "800",
+        "hex": "#00a5c3",
+        "darkContrast": false
+      },
+      {
+        "name": "900",
+        "hex": "#0097b9",
+        "darkContrast": false
+      },
+      {
+        "name": "A100",
+        "hex": "#e2f9ff",
+        "darkContrast": true
+      },
+      {
+        "name": "A200",
+        "hex": "#afeeff",
+        "darkContrast": true
+      },
+      {
+        "name": "A400",
+        "hex": "#7ce3ff",
+        "darkContrast": true
+      },
+      {
+        "name": "A700",
+        "hex": "#63ddff",
+        "darkContrast": true
+      }
+    ],
+    "orig": [
+      {
+        "name": "50",
+        "hex": "#e0f7fa",
+        "darkContrast": true
+      },
+      {
+        "name": "100",
+        "hex": "#b3ebf2",
+        "darkContrast": true
+      },
+      {
+        "name": "200",
+        "hex": "#80deea",
+        "darkContrast": true
+      },
+      {
+        "name": "300",
+        "hex": "#4dd0e1",
+        "darkContrast": true
+      },
+      {
+        "name": "400",
+        "hex": "#26c6da",
+        "darkContrast": true
+      },
+      {
+        "name": "500",
+        "hex": "#00bcd4",
+        "darkContrast": true
+      },
+      {
+        "name": "600",
+        "hex": "#00b6cf",
+        "darkContrast": true
+      },
+      {
+        "name": "700",
+        "hex": "#00adc9",
+        "darkContrast": false
+      },
+      {
+        "name": "800",
+        "hex": "#00a5c3",
+        "darkContrast": false
+      },
+      {
+        "name": "900",
+        "hex": "#0097b9",
+        "darkContrast": false
+      },
+      {
+        "name": "A100",
+        "hex": "#e2f9ff",
+        "darkContrast": true
+      },
+      {
+        "name": "A200",
+        "hex": "#afeeff",
+        "darkContrast": true
+      },
+      {
+        "name": "A400",
+        "hex": "#7ce3ff",
+        "darkContrast": true
+      },
+      {
+        "name": "A700",
+        "hex": "#63ddff",
+        "darkContrast": true
+      }
+    ],
+    "base": "#00bcd4",
+    "json": "",
+    "name": "mcgpalette8"
+  },
+  {
+    "colors": [
+      {
+        "name": "50",
+        "hex": "#e0f2f1",
+        "darkContrast": true
+      },
+      {
+        "name": "100",
+        "hex": "#b3e0db",
+        "darkContrast": true
+      },
+      {
+        "name": "200",
+        "hex": "#80cbc4",
+        "darkContrast": true
+      },
+      {
+        "name": "300",
+        "hex": "#4db6ac",
+        "darkContrast": true
+      },
+      {
+        "name": "400",
+        "hex": "#26a69a",
+        "darkContrast": false
+      },
+      {
+        "name": "500",
+        "hex": "#009688",
+        "darkContrast": false
+      },
+      {
+        "name": "600",
+        "hex": "#008e80",
+        "darkContrast": false
+      },
+      {
+        "name": "700",
+        "hex": "#008375",
+        "darkContrast": false
+      },
+      {
+        "name": "800",
+        "hex": "#00796b",
+        "darkContrast": false
+      },
+      {
+        "name": "900",
+        "hex": "#006858",
+        "darkContrast": false
+      },
+      {
+        "name": "A100",
+        "hex": "#97ffec",
+        "darkContrast": true
+      },
+      {
+        "name": "A200",
+        "hex": "#64ffe3",
+        "darkContrast": true
+      },
+      {
+        "name": "A400",
+        "hex": "#31ffda",
+        "darkContrast": true
+      },
+      {
+        "name": "A700",
+        "hex": "#18ffd5",
+        "darkContrast": true
+      }
+    ],
+    "orig": [
+      {
+        "name": "50",
+        "hex": "#e0f2f1",
+        "darkContrast": true
+      },
+      {
+        "name": "100",
+        "hex": "#b3e0db",
+        "darkContrast": true
+      },
+      {
+        "name": "200",
+        "hex": "#80cbc4",
+        "darkContrast": true
+      },
+      {
+        "name": "300",
+        "hex": "#4db6ac",
+        "darkContrast": true
+      },
+      {
+        "name": "400",
+        "hex": "#26a69a",
+        "darkContrast": false
+      },
+      {
+        "name": "500",
+        "hex": "#009688",
+        "darkContrast": false
+      },
+      {
+        "name": "600",
+        "hex": "#008e80",
+        "darkContrast": false
+      },
+      {
+        "name": "700",
+        "hex": "#008375",
+        "darkContrast": false
+      },
+      {
+        "name": "800",
+        "hex": "#00796b",
+        "darkContrast": false
+      },
+      {
+        "name": "900",
+        "hex": "#006858",
+        "darkContrast": false
+      },
+      {
+        "name": "A100",
+        "hex": "#97ffec",
+        "darkContrast": true
+      },
+      {
+        "name": "A200",
+        "hex": "#64ffe3",
+        "darkContrast": true
+      },
+      {
+        "name": "A400",
+        "hex": "#31ffda",
+        "darkContrast": true
+      },
+      {
+        "name": "A700",
+        "hex": "#18ffd5",
+        "darkContrast": true
+      }
+    ],
+    "base": "#009688",
+    "json": "",
+    "name": "mcgpalette9"
+  },
+  {
+    "colors": [
+      {
+        "name": "50",
+        "hex": "#eaf5ea",
+        "darkContrast": true
+      },
+      {
+        "name": "100",
+        "hex": "#c9e7cb",
+        "darkContrast": true
+      },
+      {
+        "name": "200",
+        "hex": "#a6d7a8",
+        "darkContrast": true
+      },
+      {
+        "name": "300",
+        "hex": "#82c785",
+        "darkContrast": true
+      },
+      {
+        "name": "400",
+        "hex": "#67bb6a",
+        "darkContrast": true
+      },
+      {
+        "name": "500",
+        "hex": "#4caf50",
+        "darkContrast": true
+      },
+      {
+        "name": "600",
+        "hex": "#45a849",
+        "darkContrast": false
+      },
+      {
+        "name": "700",
+        "hex": "#3c9f40",
+        "darkContrast": false
+      },
+      {
+        "name": "800",
+        "hex": "#339637",
+        "darkContrast": false
+      },
+      {
+        "name": "900",
+        "hex": "#248627",
+        "darkContrast": false
+      },
+      {
+        "name": "A100",
+        "hex": "#c5ffc7",
+        "darkContrast": true
+      },
+      {
+        "name": "A200",
+        "hex": "#92ff95",
+        "darkContrast": true
+      },
+      {
+        "name": "A400",
+        "hex": "#5fff64",
+        "darkContrast": true
+      },
+      {
+        "name": "A700",
+        "hex": "#46ff4b",
+        "darkContrast": true
+      }
+    ],
+    "orig": [
+      {
+        "name": "50",
+        "hex": "#eaf5ea",
+        "darkContrast": true
+      },
+      {
+        "name": "100",
+        "hex": "#c9e7cb",
+        "darkContrast": true
+      },
+      {
+        "name": "200",
+        "hex": "#a6d7a8",
+        "darkContrast": true
+      },
+      {
+        "name": "300",
+        "hex": "#82c785",
+        "darkContrast": true
+      },
+      {
+        "name": "400",
+        "hex": "#67bb6a",
+        "darkContrast": true
+      },
+      {
+        "name": "500",
+        "hex": "#4caf50",
+        "darkContrast": true
+      },
+      {
+        "name": "600",
+        "hex": "#45a849",
+        "darkContrast": false
+      },
+      {
+        "name": "700",
+        "hex": "#3c9f40",
+        "darkContrast": false
+      },
+      {
+        "name": "800",
+        "hex": "#339637",
+        "darkContrast": false
+      },
+      {
+        "name": "900",
+        "hex": "#248627",
+        "darkContrast": false
+      },
+      {
+        "name": "A100",
+        "hex": "#c5ffc7",
+        "darkContrast": true
+      },
+      {
+        "name": "A200",
+        "hex": "#92ff95",
+        "darkContrast": true
+      },
+      {
+        "name": "A400",
+        "hex": "#5fff64",
+        "darkContrast": true
+      },
+      {
+        "name": "A700",
+        "hex": "#46ff4b",
+        "darkContrast": true
+      }
+    ],
+    "base": "#4caf50",
+    "json": "",
+    "name": "mcgpalette10"
+  }
+]

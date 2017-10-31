@@ -1,0 +1,31 @@
+@import 'colors.less';
+
+@carousel-gradient-top: #F3F4F6;
+@carousel-gradient-bottom: #F9F9F9;
+
+.ss-homepage-carousel {
+  min-height: 660px;
+
+  background: @carousel-gradient-top;
+  background: -moz-linear-gradient(
+    -45deg,
+    @carousel-gradient-top 0%,
+    @carousel-gradient-bottom 100%
+  );
+  background: -webkit-linear-gradient(
+    -45deg,
+    @carousel-gradient-top 0%,
+    @carousel-gradient-bottom 100%
+  );
+  background: linear-gradient(
+    135deg,
+    @carousel-gradient-top 0%,
+    @carousel-gradient-bottom 100%
+  );
+
+  filter: progid:DXImageTransform.Microsoft.gradient(
+      startColorstr='@carousel-gradient-top',
+      endColorstr='@carousel-gradient-bottom',
+      GradientType=1
+    );
+}
