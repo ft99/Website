@@ -10,7 +10,6 @@ globals:
   Typed:                          true
 plugins:
   - lodash
-  - flowtype
   - html
 rules:
   lodash/prefer-lodash-method:    0
